@@ -1,32 +1,32 @@
-# Descrição do desafio: Você irá criar um relatório mais elaborado com base na sample financials do Power BI. Os arquivos de dados estão disponíveis no github: 
+### Descrição do desafio: Você irá criar um relatório mais elaborado com base na sample financials do Power BI.
 
-:blue_heart: Estrutura definida - Ok 
+✔ Estrutura definida 
 
-:blue_heart: Botões de navegação que fornecem navegabilidade - Ok
+✔ Botões de navegação que fornecem navegabilidade 
 
-:blue_heart: Segmentadores utilizados e botões com imagem associado - OK
+✔ Segmentadores utilizados e botões com imagem associado 
 
-:blue_heart: Utilize os indicadores e botões para selecionar diferentes visuais sobre um mesmo assunto - Ok
+✔ Utilize os indicadores e botões para selecionar diferentes visuais sobre um mesmo assunto 
 
 
-# Utilize os vídeos de passo a passo para criação dos elementos que compõem a primeira página do relatório: 
+### Utilize os vídeos de passo a passo para criação dos elementos que compõem a primeira página do relatório: 
 
-:star2: Objetos que definem o layout do relatório - OK
+:star2: Objetos que definem o layout do relatório 
 
-:star2: Gráficos (visuais) e os campos que os compõem - OK
+:star2: Gráficos (visuais) e os campos que os compõem 
 
-:star2: Botões para navegabilidade - OK
+:star2: Botões para navegabilidade 
 
-:star2: Segmentadores de dados - OK
+:star2: Segmentadores de dados 
 
 #Lembre-se de: 
 
-:star2: Criar a segunda página do relatório - OK
+✔ Criar a segunda página do relatório 
 
-:star2: Publique o seu relatório no Power BI Service - OK
+✔ Publique o seu relatório no Power BI Service 
 
-:star2: Caso você tenha familiaridade fique livre para utilizar outros artifícios nos botões e outros - OK
+✔ Caso você tenha familiaridade fique livre para utilizar outros artifícios nos botões e outros 
 
-:star2: Submenta seu projeto através do link no github - OK
+✔ Submenta seu projeto através do link no github 
 
 
